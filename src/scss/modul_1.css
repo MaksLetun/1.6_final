@@ -239,7 +239,7 @@ a {
 }
 @media (min-width: 768px) {
   .item_style {
-    margin-left: 24px;
+    margin-left: 32px;
     width: 776px;
   }
 }
@@ -305,7 +305,7 @@ a {
 }
 @media (min-width: 768px) {
   .text-container {
-    margin-left: 24px;
+    margin-left: 32px;
   }
 }
 
@@ -362,4 +362,4 @@ a {
   flex-wrap: nowrap;
   font-size: 16px;
   font-weight: 500;
-}/*# sourceMappingURL=modul_1.css.map */
+}
