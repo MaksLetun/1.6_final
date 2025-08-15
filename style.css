@@ -714,6 +714,7 @@ body {
 .modul_1 {
   margin: 0;
   margin-right: 30px;
+  margin-left: 32px;
 }
 @media (min-width: 1120px) {
   .modul_1 {
