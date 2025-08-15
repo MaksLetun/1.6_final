@@ -252,6 +252,7 @@ a {
   gap: 16px;
   margin-top: 16px;
   @include tablet {
+    margin-left: 32px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
