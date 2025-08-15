@@ -922,7 +922,7 @@ a {
 }
 @media (min-width: 768px) {
   .item_style {
-    margin-left: 24px;
+    margin-left: 32px;
     width: 776px;
   }
 }
@@ -988,7 +988,7 @@ a {
 }
 @media (min-width: 768px) {
   .text-container {
-    margin-left: 24px;
+    margin-left: 32px;
   }
 }
 
