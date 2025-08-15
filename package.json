@@ -18,6 +18,7 @@
     "deploy": "gh-pages -d dist",
     "dev": "webpack --mode development",
     "start": "webpack-dev-server --mode development --open",
+    "homepage": "https://maksletun.github.io/1.6_final/",
     "watch": "webpack --mode development --watch"
   },
   "browserslist": [
