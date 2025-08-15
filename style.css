@@ -714,7 +714,6 @@ body {
 .modul_1 {
   margin: 0;
   margin-right: 30px;
-  margin-left: 32px;
 }
 @media (min-width: 1120px) {
   .modul_1 {
@@ -923,6 +922,7 @@ a {
 }
 @media (min-width: 768px) {
   .item_style {
+    margin-left: 24px;
     width: 776px;
   }
 }
@@ -985,6 +985,11 @@ a {
   padding: 0;
   font-weight: 400;
   font-size: 14px;
+}
+@media (min-width: 768px) {
+  .text-container {
+    margin-left: 24px;
+  }
 }
 
 .img_container {
